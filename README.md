@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference. -->
 
     2. Clone the Repository
 
-        git clone https://github.com/gauravavaiya24/techconnect.git
+        git clone https://github.com/gauravavaiya24/techconnect
         cd techconnect
 
     3. Install Dependencies
